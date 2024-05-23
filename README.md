@@ -7,6 +7,7 @@ This repository is the initialization of the integration of LangChain to Novatid
 ### Initialize Virtual Environments (macOS)
 
 python3 -m venv langchain-env
+
 source langchain-env/bin/activate
 
 ### Install dependencies
